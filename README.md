@@ -1,2 +1,1 @@
-# HarbiKargo
-Kargo Yönetim 
+
